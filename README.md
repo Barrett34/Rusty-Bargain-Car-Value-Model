@@ -1,7 +1,7 @@
 # Rusty-Bargain-Car-Value-Model
 Rusty Bargain has made a new app to attract new customers that will determine the market value for your vehicle. 
 
-##Introduction
+## Introduction
 
 Rusty Bargain used car sales service is developing an app to attract new customers. In that app, you can quickly find out the market value of your car. We need to build the model to determine the value. 
 
